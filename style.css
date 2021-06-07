@@ -1,0 +1,7 @@
+.gadjets {
+    display: flex;
+    align-items: center;
+}
+.butt {
+    padding: 10px;
+}
